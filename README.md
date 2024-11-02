@@ -7,8 +7,9 @@
 - **/autoaccel** pentru a porni sau opri modul
 - **/cruise** pentru a seta o viteza custom
 
-Modul vine in 2 variante: 
 #
+
+Modul vine in 2 variante: 
 - `>Varianta enabled este pornita (by default). Modul poate fi dezactivat cu /autoaccel`
 - `>Varianta disabled este oprita (by default) si trebuie activata cu /autoaccel`
 
